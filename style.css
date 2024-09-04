@@ -1,0 +1,8 @@
+body{background-color:white;
+font-style:; }
+.info{background-color:gray;}
+h2,h3{font-style:bold;
+font-family:courier;}
+.footer,.header{background-color:rgb(196, 200, 255);}
+p,li{font-family:courier;
+font-style:italic;}
